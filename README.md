@@ -1,11 +1,11 @@
 # Bandejão Palette Maker
 
-![Dish]
-(https://github.com/eduardmolina/bandejao-palette-maker/blob/master/images/dish.png)
+![Dish](https://github.com/eduardmolina/bandejao-palette-maker/blob/master/images/dish.png)
 
 ```
 python app.py <image_name>
 ```
 
-![Result]
-(https://github.com/eduardmolina/bandejao-palette-maker/blob/master/images/result.png)
+App will generate a file named `result.png`
+
+![Result](https://github.com/eduardmolina/bandejao-palette-maker/blob/master/images/result.png)

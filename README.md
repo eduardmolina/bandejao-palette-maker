@@ -1,1 +1,2 @@
-# bandejao-palette-maker
+# Bandejão Palette Maker
+

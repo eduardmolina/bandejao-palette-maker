@@ -2,9 +2,7 @@
 
 ![Dish](https://github.com/eduardmolina/bandejao-palette-maker/blob/master/images/dish.png)
 
-```
-python app.py <image_name>
-```
+Now its a web app, `python run.py`
 
 App will generate a file named `result.png`
 

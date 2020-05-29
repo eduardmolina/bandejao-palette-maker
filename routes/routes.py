@@ -2,7 +2,6 @@ import os
 
 import colorgram
 
-
 from flask import Blueprint, request, render_template, send_file
 from PIL import Image
 
